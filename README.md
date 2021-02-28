@@ -3,7 +3,7 @@
 First install dependencies:
 
 ```sh
-npm i -D
+npm i
 ```
 
 To create a production build:
