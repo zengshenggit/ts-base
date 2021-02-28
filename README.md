@@ -1,33 +1,25 @@
-# empty-project
-
-Empty project.
-
-## Building and running on localhost
+## A base environment for typesctipt work with webpack
 
 First install dependencies:
 
 ```sh
-npm install
+npm i -D
 ```
 
 To create a production build:
 
 ```sh
-npm run build-prod
+npm run prod
 ```
 
 To create a development build:
 
 ```sh
-npm run build-dev
+npm run dev
 ```
 
-## Running
+## Start the dev server
 
 ```sh
-node dist/bundle.js
+npm run serve
 ```
-
-## Credits
-
-Made with [createapp.dev](https://createapp.dev/)
